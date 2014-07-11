@@ -10,6 +10,7 @@ window. It polls every second.
 Quickstart
 ==========
 ::
+
     pip install introspect
     introspect_logger
 
